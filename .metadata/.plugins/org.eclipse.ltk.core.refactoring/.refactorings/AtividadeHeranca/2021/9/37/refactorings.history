@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;AtividadesHeranca0102&apos; to &apos;br.com.generation.heranca&apos;&#x0D;&#x0A;- Original project: &apos;AtividadeHeranca&apos;&#x0D;&#x0A;- Original element: &apos;AtividadeHeranca/src/AtividadesHeranca0102&apos;&#x0D;&#x0A;- Renamed element: &apos;AtividadeHeranca/src/br.com.generation.heranca&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;AtividadesHeranca0102&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;AtividadesHeranca0102" name="br.com.generation.heranca" qualified="false" references="true" stamp="1631235275765" textual="false" version="1.0"/>
+</session>
